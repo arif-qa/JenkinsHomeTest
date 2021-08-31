@@ -1,0 +1,2 @@
+This is a sample file to test jenkins
+this is to check how to pull the code from GitHub repository
